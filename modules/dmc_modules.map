@@ -1,0 +1,9 @@
+module vector {
+    header "vector.ixx"
+    export *
+}
+
+module gvector {
+    header "vector.hpp"
+    export *
+}
